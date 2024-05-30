@@ -2,4 +2,13 @@ data:
   raw:
     raw_1: "../data/raw/online_retail_II.xlsx"
   clean:
-    clean_1: "../data/clean/finishers.csv"
+    clean_1: "../data/clean/customers.csv"
+    clean_2: "../data/clean/invoices.csv"
+    clean_3: "../data/clean/products.csv"
+    clean_4: "../data/clean/top_categories_by_avg_invoice_amount.csv"
+    clean_5: "../data/clean/top_categories_by_avg_line_price.csv"
+    clean_6: "../data/clean/top_countries_by_revenue.csv"
+    clean_7: "../data/clean/top_selling_categories_by_qty.csv"
+    clean_8: "../data/clean/top_selling_categories_by_revenue.csv"
+    clean_9: "../data/clean/top_selling_products_by_qty.csv"
+    clean_10: "../data/clean/top_selling_products_by_revenue.csv"
